@@ -5,7 +5,7 @@
 * Create branch before you push to master
 ### To clone
 ```
-git clone https://github.com/aksharanigam1112/hackerrank_algorithms.git
+git clone https://github.com/Code-with-ease/Hackerrank-Algorithms.git
 ```
 then use
 ```
