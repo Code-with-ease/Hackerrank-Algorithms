@@ -2,9 +2,11 @@
 
 ## Warmup
 ### Easy
-** Done **:- 7/10
-** Partially Solved ** :- 0/10
-** Unsolved **:- 3/10
+**Done**:- 7/1
+
+**Partially Solved** :- 0/10
+
+**Unsolved**:- 3/10
 - [X] [1. Solve me first](https://www.hackerrank.com/challenges/solve-me-first)
 - [X] [2. Simple array sum](https://www.hackerrank.com/challenges/simple-array-sum)
 - [X] [3. Compare the triplet](https://www.hackerrank.com/challenges/compare-the-triplets)
